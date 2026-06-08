@@ -1,0 +1,3 @@
+[submodule "eVAULT_Blockchain_HyperledgerFabric"]
+	path = eVAULT_Blockchain_HyperledgerFabric
+	url = https://github.com/PrashantBarai/eVAULT_Blockchain_HyperledgerFabric.git
